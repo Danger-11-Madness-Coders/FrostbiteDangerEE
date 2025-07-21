@@ -23,7 +23,7 @@ flavor_text = true
 discord    = "https://discord.gg/9pTk8p4rMQ"
 github     = "https://github.com/Simple-Station/Einstein-Engines"
 website    = "https://simplestation.org/"
-bug_report = "https://github.com/Simple-Station/Einstein-Engines/issues/new/choose"
+bug_report = "https://github.com/Frost-Station/Frostbite-Station/issues"
 
 [net]
 max_connections = 1024
