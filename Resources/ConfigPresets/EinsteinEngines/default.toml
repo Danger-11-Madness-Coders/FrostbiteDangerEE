@@ -13,7 +13,7 @@ lobbyenabled       = true
 lobbyduration      = 240
 
 [hub]
-tags = "lang:en-US,region:am_n_e,rp:med"
+tags = "lang:en-US,region:am_n_e,rp:med,18+"
 hub_urls = "https://hub.spacestation14.com/, https://web.networkgamez.com/, https://hub.singularity14.co.uk/"
 
 [ic]
