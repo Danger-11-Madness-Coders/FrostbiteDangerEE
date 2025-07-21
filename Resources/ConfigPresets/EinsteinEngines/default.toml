@@ -6,21 +6,21 @@ deadmin_on_join = true
 rich_main_icon_id = "einstein-engines"
 
 [game]
-hostname           = "Einstein Engines (change this)"
-desc               = "An alternative upstream that favors content intended for RP servers. If you are reading this, please change it."
-soft_max_players   = 60
+hostname           = "Frostbite Station[LightRP - MediumRP/LowRP+][EN] 18+"
+desc               = "18+ furry LowRP+/LightRP - MediumRP SS14 server downstreaming from Einstein Engines code and Dangercode, gameplay a mix between Roleplay and Chaos and some Admemery!"
+soft_max_players   = 80
 lobbyenabled       = true
 lobbyduration      = 240
 
 [hub]
-tags = "lang:en-US,region:am_n_e,rp:med"
+tags = "lang:en-US,region:am_n_e,rp:low"
 hub_urls = "https://hub.spacestation14.com/, https://web.networkgamez.com/, https://hub.singularity14.co.uk/"
 
 [ic]
 flavor_text = true
 
 [infolinks]
-discord    = "https://discord.gg/X4QEXxUrsJ"
+discord    = "https://discord.gg/9pTk8p4rMQ"
 github     = "https://github.com/Simple-Station/Einstein-Engines"
 website    = "https://simplestation.org/"
 bug_report = "https://github.com/Simple-Station/Einstein-Engines/issues/new/choose"
