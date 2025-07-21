@@ -6,8 +6,8 @@ deadmin_on_join = true
 rich_main_icon_id = "einstein-engines"
 
 [game]
-hostname           = "Frostbite Station[LightRP - MediumRP/LowRP+][EN] 18+"
-desc               = "18+ furry LowRP+/LightRP - MediumRP SS14 server downstreaming from Einstein Engines code and Dangercode, gameplay a mix between Roleplay and Chaos and some Admemery!"
+hostname           = "[18+] Frostbite Station [LRP/MRP][EN]"
+desc               = "Frostbite is a community server based off of Dangercode and Einstein Engines (EE) for the game Space Station 14. We are a mature 18+ only community oriented around roleplay."
 soft_max_players   = 80
 lobbyenabled       = true
 lobbyduration      = 240
